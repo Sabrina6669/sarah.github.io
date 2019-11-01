@@ -10,11 +10,18 @@ output:
 
 This is a website about Sarah, please contact me if you have any questions.
 
-## More about project
+
+# Happy Halloween!!!
+
+![](https://media1.tenor.com/images/bef0be7bf00f8ce6449feeefe7b34977/tenor.gif?itemid=15119354)
+
+# Homework things
+
+### Project overview
 click [here](about1.html) to see more information
 
-## Personal info
+### Personal info
 click [here](about2.html) to see academic and professional experience
 
-## Some plots
+### Some plots
 click [here](plots.html) to see the dashboards
